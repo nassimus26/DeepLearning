@@ -6,7 +6,7 @@ import matplotlib.pyplot as plt
 import numpy as np
 import tensorflow as tf
 
-from PageSlider import PageSlider
+from utils.PageSlider import PageSlider
 
 '''
  * @author Nassim MOUALEK

@@ -74,6 +74,7 @@ Implemented with **neural networks** using **TensorFlow** and **SVM** using **SK
 ![](readme-imgs/patients.png)  
 
 ## A Spiral distribution ##
+    # We keep the same neural network and change the Dataset generator
     features, targets = ds.getSprialDataset(rows)
     features = ds.extendDataset(features) 
     # we extend the Features (X, Y) with (X°2, Y°2, X1*X2, sin(X1), sin(X2)

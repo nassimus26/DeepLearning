@@ -25,11 +25,11 @@
     </a>    
 </p>        
 
-## XCovid Example ##
+## Xray XCovid Example ##
 Using the transfer of the pre-trained model VGG16, we reach a very high accuracy very quickly 
 ![](readme-imgs/xcovid-accuracy.png)  
 
-## Patient Example ##
+## Patients Example ##
 
 Implemented with **neural networks** using **TensorFlow** and **SVM** using **SKLEARN**
 ## A Linear distribution ##

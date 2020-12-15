@@ -26,7 +26,7 @@
 </p>        
 
 ## XCovid Example ##
-Using the model the transfer of the pre-trained model VGG16, we reach a very high accuracy very quickly 
+Using the transfer of the pre-trained model VGG16, we reach a very high accuracy very quickly 
 ![](readme-imgs/xcovid-accuracy.png)  
 
 ## Patient Example ##

@@ -56,8 +56,6 @@ base_model = VGG16(
     input_shape=IMG_SIZE + (3,)
 )
 
-NUM_CLASSES = 1
-
 model = Sequential()
 model.add(base_model)
 model.add(layers.Flatten())
@@ -65,7 +63,7 @@ model.add(layers.Dense(96, activation='tanh'))
 model.add(layers.Dropout(0.3))
 model.add(layers.Dense(16, activation='tanh'))
 model.add(layers.Dropout(0.2))
-model.add(layers.Dense(NUM_CLASSES, activation='sigmoid'))
+model.add(layers.Dense(1, activation='sigmoid'))
 model.layers[0].trainable = False
 
 model.compile(

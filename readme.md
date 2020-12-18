@@ -26,7 +26,7 @@
 </p>        
 
 ## Xray XCovid Example ##
-Using the transfer of the pre-trained model VGG16, we reach a very high accuracy very quickly
+Using the transfer of the pre-trained VGG-16 model, we reach a very high accuracy very quickly
      
     vgg16_weight_path = './vgg16_weights_tf_dim_ordering_tf_kernels_notop.h5'
     base_model = VGG16(

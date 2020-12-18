@@ -15,10 +15,10 @@
         <img src="https://img.shields.io/badge/Tensorflow-2.2-green.svg" />    
     </a>    
     <a alt="SKLearn">    
-        <img src="https://img.shields.io/badge/SKLearn-green.svg" />    
+        <img src="https://img.shields.io/badge/SKLearn-0.1-green.svg" />    
     </a>    
     <a alt="VGG16">    
-        <img src="https://img.shields.io/badge/VGG16-green.svg" />    
+        <img src="https://img.shields.io/badge/VGG-16-green.svg" />    
     </a>    
     <a alt="License">    
         <img src="https://img.shields.io/badge/License-MIT-blue.svg" />    

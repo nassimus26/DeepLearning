@@ -8,6 +8,10 @@
 /build/www/**
 /src/test/javascript/coverage/
 **/build/
+**.mp4
+**.webm
+**.json
+**.pkl
 ######################
 # Node
 ######################

@@ -5,7 +5,7 @@
   <br>    
 </h1>    
     
-<h4 align="center">Basic machine learning and neural networks examples using Tensorflow, SKLearn and VGG16 for Transfer Learning in CNNs</h4>    
+<h4 align="center">Basic machine learning and neural networks examples using Tensorflow, SKLearn, BIRT for NLP and VGG16 for Transfer Learning in CNNs</h4>    
     
 <p align="center">    
     <a alt="Python">    
